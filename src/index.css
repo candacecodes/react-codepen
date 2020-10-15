@@ -28,6 +28,15 @@ body {
 	position: absolute;
 }
 
+.expand-collapse-btn {
+	margin-left: 0.5rem;
+	background: none;
+	border: none;
+	color: white;
+	cursor: pointer;
+	overflow: hidden !important;
+}
+
 .editor-title {
 	display: flex;
 	justify-content: space-between;
